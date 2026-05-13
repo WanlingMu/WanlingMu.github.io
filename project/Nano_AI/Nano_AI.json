@@ -1,0 +1,17 @@
+{
+  "projectName": "基于Nanobot的医学三维重建科研实验助手",
+  "time": "2026.03",
+  "background": "科研领域实验流程复杂，研究人员平均每次实验需手动输入10+命令行参数，结果难以追溯。",
+  "techStack": [
+    "Nanobot",
+    "CLI工具链",
+    "Tool/Skill机制设计",
+    "长短期记忆系统",
+    "微信ClawBot集成"
+  ],
+  "productDesign": "基于LLM Agent的智能实验调度系统，将传统命令行驱动的科研流程重构为自然语言交互式体验。实现多步骤实验任务调度，支持日志追踪，实现科研指标自动计算与结构化记录，接入微信ClawBot。",
+  "projectOutcome": "覆盖X光和CT系列共200+例数据，支持初始化、训练、评估等4种科研流程；实验配置效率提升80%+。",
+  "role": "产品设计 + 个人独立开发",
+  "img": ["Nano_AI_01.jpg","Nano_AI_02.png"],
+  "PRD": "PRD_AI_Nano_V1.0.md"
+}
