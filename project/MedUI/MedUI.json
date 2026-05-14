@@ -1,0 +1,13 @@
+{
+  "projectName": "MedUI医疗UI设计灵感与代码参考网站",
+  "time": "2026.05",
+  "background": "医疗健康是 UI/UX 设计中最被忽视的垂直领域之一。三个核心痛点：\n\n搜索效率低：Dribbble 和 Pinterest 上搜索 \"medical UI\"，结果以泛化的医院官网和健康 App 为主，缺少 B 端 EHR/HIS/LIS 这类数据密集型系统的设计参考\n只有图没有代码：现有设计平台只给截图，设计师看完还得从头手写。市面上没有\"看一眼就能复制代码\"的医疗设计参考工具\n设计规范碎片化：NHS Design System 等医疗设计规范分散在各机构官网，无人聚合。",
+  "techStack": [],
+  "productDesign": "MedUI =图+代码+设计说明，三者合一，设计20个医疗场景组件覆盖4大场景，输出Tailwind/CSS/JSX 3种代码格式，覆盖不同技术栈的设计师，构建深色毛玻璃+动效体系的设计调性",
+  "projectOutcome": "单组件设计参考获取从搜索10分钟+手写30分钟压缩至一键复制，上线20个组件+6套医疗配色方案",
+  "role": "产品设计 + Coze平台搭建",
+  "img": ["MedUI_01.png", "MedUI_02.png","MedUI_03.png","MedUI_04.png"],
+  "PRD": "MedUI_PRD_V1.0.md",
+  "link": "https://8hx58hpq4j.coze.site",
+  "order": 3
+}

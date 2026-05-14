@@ -2,12 +2,11 @@
   "projectName": "海航随心飞线路查询AI助手",
   "time": "2026.04",
   "background": "海航随心飞覆盖数百条航线，80%的人面临有出行意愿但无法快速匹配目的地的决策困境。",
-  "techStack": [
-
-  ],
+  "techStack": [],
   "productDesign": "基于Coze平台搭建AI旅行顾问Agent，设计航线搜索与个性化推荐系统，支持自然语言生成旅行建议。基于用户偏好（海岛/古城/美食）和约束条件（周末/预算），主动推荐目的地+航线组合，完成微信小程序MVP搭建。",
   "projectOutcome": "用户决策步骤从5步（打开APP→查航线→翻规则→比价→决定）缩减至1次对话，决策时间缩短约90%。",
   "role": "产品设计 + Coze平台搭建",
-  "img": "HNA_AI_01.jpg",
-  "PRD": "PRD_AI_HN_Air_V1.0.md"
+  "img": ["HNA_AI_01.jpg"],
+  "PRD": "PRD_AI_HN_Air_V1.0.md",
+  "order": 2
 }
