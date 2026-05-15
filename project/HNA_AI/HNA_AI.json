@@ -7,6 +7,6 @@
   "projectOutcome": "用户决策步骤从5步（打开APP→查航线→翻规则→比价→决定）缩减至1次对话，决策时间缩短约90%。",
   "role": "产品设计 + Coze平台搭建",
   "img": ["HNA_AI_01.jpg"],
-  "PRD": "PRD_AI_HN_Air_V1.0.md",
+  "PRD": "PRD_AI_HN_Air_V0.md",
   "order": 2
 }
